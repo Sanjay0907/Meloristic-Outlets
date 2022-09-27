@@ -2,7 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+## Home Screens
+![Untitled-1](https://user-images.githubusercontent.com/90062803/192523581-0e2d9e34-8886-4f18-9dea-f8b85ddb4439.png)
+
 
 This project is a starting point for a Flutter application.
 
