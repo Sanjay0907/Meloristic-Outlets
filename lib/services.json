@@ -1,0 +1,211 @@
+[
+    {
+      "title": "Most Popular Packages",
+      "Services": [
+        {
+          "title": "Hectic Day Care",
+          "description": [
+            "Medium pressure head, neck, shoulder & foot massage",
+            "Rejuvenate & relax with healing aromatic oils"
+          ],
+          "time": "45 min",
+          "price": 799
+        },
+        {
+          "title": "Stress Relief Swedish massage (60 min)",
+          "description": [
+            "Medium pressure full body massage",
+            "Lowers stress and anxiety, improves blood circulation"
+          ],
+          "time": "60 min",
+          "price": 1199
+        },
+        {
+          "title": "Stress Relief Swedish massage (90 min)",
+          "description": [
+            "Medium pressure full body massage",
+            "Lowers stress and anxiety, improves blood circulation"
+          ],
+          "time": "60 min",
+          "price": 1499
+        },
+        {
+          "title": "Stress Relief Swedish + Head, Neck, Shoulder",
+          "description": [
+            "Stress Relief Therapy - 60 min",
+            "Head, Neck & Shoulder Massage - 20 Min"
+          ],
+          "time": "1hr 20 min",
+          "price": 1499
+        },
+        {
+          "title": "Stress Relief Swedish + Foot Massage",
+          "description": [
+            "Foot Reflexology SPA",
+            "Stress Relief Therapy - 60 min"
+          ],
+          "time": "1hr 25 min",
+          "price": 1599
+        }
+      ]
+    },
+    {
+      "title": "Stress Relief",
+      "services": [
+        {
+          "title": "Stress Relief Swedish massage",
+          "description": [
+            "Medium pressure full body massage",
+            "Lowers stress and anxiety, improves blood circulation"
+          ],
+          "time": "60 min",
+          "price": 1199
+        },
+        {
+          "title": "Stress Relief Swedish massage",
+          "description": [
+            "Medium pressure full body massage",
+            "Lowers stress and anxiety, improves blood circulation"
+          ],
+          "time": "90 min",
+          "price": 1499
+        },
+        {
+          "title": "Holistic De-stress Therapy",
+          "description": [
+            "Medium pressure full body massage",
+            "Relieves Stress, muscle pain & tension"
+          ],
+          "time": "1hr 20 min",
+          "price": 1499
+        },
+        {
+          "title": "Top to Toe Therapy",
+          "description": [
+            "40 mins Medium pressure head, neck, shoulder & foot massage",
+            "Full body Relaxation"
+          ],
+          "time": "1hr 40 min",
+          "price": 1899
+        }
+      ]
+    },
+    {
+      "title": "Pain Relief",
+      "services": [
+        {
+          "title": "Pain Relief Deep Tissue Therapy",
+          "description": [
+            "High pressure full body massage with deep palm movements",
+            "Relieves muscle tenshion, chronic pain & soreness"
+          ],
+          "time": "60 min",
+          "price": 1399
+        },
+        {
+          "title": "Pain Relief Deep Tissue Therapy",
+          "description": [
+            "High pressure full body massage with deep palm movements",
+            "Relieves muscle tenshion, chronic pain & soreness"
+          ],
+          "time": "90 min",
+          "price": 1699
+        }
+      ]
+    },
+    {
+      "title": "Beauty Retreat",
+      "Services": [
+        {
+          "title": "Cleanse & Glow",
+          "description": [
+            "Body scrub with light pressure face and head massage",
+            "Repairs skin and uplifts face muscles"
+          ],
+          "time": "60 min",
+          "price": 1099
+        }
+      ]
+    },
+    {
+      "title": "Mega Savings Offer",
+      "Services": [
+        {
+          "title": "Stress relief swedish Therapy + Face Massage",
+          "description": [
+            "Face massage",
+            "Stress relief therapy"
+          ],
+          "time": "1hr 20mins",
+          "price": 1399
+        },
+        {
+          "title": "Stress relief swedish Therapy + Head Massage",
+          "description": [
+            "Head massage",
+            "Stress relief therapy"
+          ],
+          "time": "1hr 20mins",
+          "price": 1399
+        },
+        {
+          "title": "Pain relief Therapy + Face Massage",
+          "description": [
+            "Pain relief Therapy ",
+            "Face massage"
+          ],
+          "time": "1hr 20mins",
+          "price": 1499
+        },
+        {
+          "title": "Pain relief Therapy + Head Massage",
+          "description": [
+            "Pain relief Therapy ",
+            "Head massage"
+          ],
+          "time": "1hr 20mins",
+          "price": 1499
+        }
+      ]
+    },
+    {
+      "title": "Add-ons",
+      "services": [
+        {
+          "title": "Relaxing Massage",
+          "description": [
+            "Head massage to revitalize the scalp"
+          ],
+          "time": "20mins",
+          "price": 299
+        },
+        {
+          "title": "Head and Shoulder Therapy",
+          "description": [
+            "Head and Shoulder dry Massage",
+            "Eases upper body tension"
+          ],
+          "time": "20mins",
+          "price": 399
+        },
+        {
+          "title": "Relaxing Foot  Massage",
+          "description": [
+            "Foot massage to alleviate soreness",
+            "improves internal immunity"
+          ],
+          "time": "20mins",
+          "price": 499
+        },
+        {
+          "title": "Body Scrub Treatment",
+          "description": [
+            "Medium pressure Full Body Scrub",
+            "Exfoliates dead skin, gives skin a glowing look"
+          ],
+          "time": "20mins",
+          "price": 499
+        }
+      ]
+    }
+  ]
