@@ -1,8 +1,10 @@
-# buffer
+# Meloristic Outlets
 
-A new Flutter project.
+App to post on all social media platform
 
-## Getting Started
+## Home Screen
+![Untitled-1](https://user-images.githubusercontent.com/90062803/192742637-dcedabec-73d4-46ca-92b2-4d147b7b00b1.png)
+
 
 This project is a starting point for a Flutter application.
 
